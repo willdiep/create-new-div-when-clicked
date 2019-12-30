@@ -1,0 +1,14 @@
+main {
+    width: 100%;
+}
+
+div{
+    background: skyblue;
+    padding:10px;
+}
+
+pre{
+    white-space: pre-wrap;
+    background: #EEE;
+}
+
